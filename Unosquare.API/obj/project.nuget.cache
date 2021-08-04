@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJ+ymBOGIzdQCzlqpM01R4el4Qx1GhEaVjDiZDmHItc9mRuR+0UqVZbs5JLJjbnbCDfTJ3Uhag/l9Xv8DkeHQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omega\\source\\repos\\Unosquare.API\\Unosquare.API\\Unosquare.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omega\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Omega\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Omega\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Omega\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Omega\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Omega\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
