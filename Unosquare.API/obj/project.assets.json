@@ -1625,25 +1625,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Omega\\.nuget\\packages\\": {},
+    "C:\\Users\\edgar.rivera\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omega\\source\\repos\\Unosquare.API\\Unosquare.API\\Unosquare.API.csproj",
+      "projectUniqueName": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.API\\Unosquare.API.csproj",
       "projectName": "Unosquare.API",
-      "projectPath": "C:\\Users\\Omega\\source\\repos\\Unosquare.API\\Unosquare.API\\Unosquare.API.csproj",
-      "packagesPath": "C:\\Users\\Omega\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omega\\source\\repos\\Unosquare.API\\Unosquare.API\\obj\\",
+      "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.API\\Unosquare.API.csproj",
+      "packagesPath": "C:\\Users\\edgar.rivera\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Omega\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\edgar.rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -1702,7 +1702,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
