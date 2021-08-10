@@ -34,7 +34,5 @@ namespace Unosquare.Data.Models
                 container = new List<Item>();
             }
         }
-
-        }
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\bin\Debug\net5.0\Unosquare.Data.deps.json
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\bin\Debug\net5.0\Unosquare.Data.dll
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\bin\Debug\net5.0\ref\Unosquare.Data.dll
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\bin\Debug\net5.0\Unosquare.Data.pdb
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.csproj.AssemblyReference.cache
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.AssemblyInfoInputs.cache
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.AssemblyInfo.cs
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.csproj.CoreCompileInputs.cache
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.dll
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\obj\Debug\net5.0\ref\Unosquare.Data.dll
+C:\Users\Omega\source\repos\Unosquare.API\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.pdb
