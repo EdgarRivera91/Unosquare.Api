@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[6.4.4, )"
             },
+            "EntityFramework.CodeFirstStoreFunctions": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.8, )"

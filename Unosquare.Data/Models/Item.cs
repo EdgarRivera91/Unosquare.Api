@@ -9,9 +9,23 @@ namespace Unosquare.Data.Models
     public class Item
     {
         private Random randomID;
-        private string itemID = "";
-        public string itemType = "";
-        public string itemStatus = "";
+        private string itemID
+        {
+            get;
+            set;
+        }
+
+        public string itemType
+        {
+            get;
+            set;
+        }
+        public string itemStatus
+        {
+            get;
+            set;
+        }
+
         //TODO - Create a warehouse
         //public Warehouse warehouse;
         public List<Item> container;

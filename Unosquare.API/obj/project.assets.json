@@ -24,6 +24,18 @@
           "buildTransitive/netcoreapp3.0/EntityFramework.targets": {}
         }
       },
+      "EntityFramework.CodeFirstStoreFunctions/1.2.0": {
+        "type": "package",
+        "dependencies": {
+          "EntityFramework": "6.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/CodeFirstStoreFunctions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/CodeFirstStoreFunctions.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
@@ -562,6 +574,21 @@
         "tools/netcoreapp3.0/any/ef6.dll",
         "tools/netcoreapp3.0/any/ef6.pdb",
         "tools/netcoreapp3.0/any/ef6.runtimeconfig.json"
+      ]
+    },
+    "EntityFramework.CodeFirstStoreFunctions/1.2.0": {
+      "sha512": "mb45Rvllu4tMFLQwpG7+uucP1ULQLzFGJDjHNWz9gmUo/bU7KY2CQoEwEXycw+irZGTsjUiH77TZJhpdBf02fw==",
+      "type": "package",
+      "path": "entityframework.codefirststorefunctions/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.txt",
+        "entityframework.codefirststorefunctions.1.2.0.nupkg.sha512",
+        "entityframework.codefirststorefunctions.nuspec",
+        "lib/net40/CodeFirstStoreFunctions.dll",
+        "lib/net45/CodeFirstStoreFunctions.dll",
+        "lib/netstandard2.1/CodeFirstStoreFunctions.dll"
       ]
     },
     "Microsoft.CSharp/4.7.0": {
@@ -1620,6 +1647,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "EntityFramework >= 6.4.4",
+      "EntityFramework.CodeFirstStoreFunctions >= 1.2.0",
       "Microsoft.EntityFrameworkCore >= 5.0.8",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
@@ -1674,6 +1702,10 @@
           "EntityFramework": {
             "target": "Package",
             "version": "[6.4.4, )"
+          },
+          "EntityFramework.CodeFirstStoreFunctions": {
+            "target": "Package",
+            "version": "[1.2.0, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
