@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,45 +10,16 @@ namespace Unosquare.Data.Models
 {
     public class Item
     {
-        private Random randomID;
-        private string itemID
-        {
-            get;
-            set;
-        }
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        public long ItemID { get; set; }
 
-        public string itemType
-        {
-            get;
-            set;
-        }
-        public string itemStatus
-        {
-            get;
-            set;
-        }
+        public string ItemType { get; set; }
+        
+        public string ItemStatus { get; set; }
 
-        //TODO - Create a warehouse
-        //public Warehouse warehouse;
-        public List<Item> container;
+        public string Warehouse { get; set; }
 
-        public Item() 
-        {
-            //
-        }
-
-        public void createItem(
-            string typeItem, 
-            string statusItem, 
-            bool isContainer = false)
-        {
-            itemID = randomID.Next().ToString();
-            itemType = typeItem;
-            itemStatus = statusItem;
-            if (isContainer) 
-            {
-                container = new List<Item>();
-            }
-        }
+        public long Container { get; set; }
     }
 }
