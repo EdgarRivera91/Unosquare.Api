@@ -14,5 +14,17 @@ namespace Unosquare.Data.Models
         }
 
         public DbSet<Item> Items { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Item>().HasData(new Item
+            {
+                ItemID = 1,
+                ItemType = "Coke",
+                ItemStatus = "Available",
+                Warehouse = "Items",
+                Container = 1,
+            });
+        }
     }
 }

@@ -46,9 +46,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "EntityFramework.CodeFirstStoreFunctions": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[5.0.9, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
