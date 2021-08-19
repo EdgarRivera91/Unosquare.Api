@@ -62,12 +62,12 @@ namespace Unosquare.API.Controllers
             {
                 return BadRequest("Item is null.");
             }
-            Item employeeToUpdate = _itemsManager.Get(id);
-            if (employeeToUpdate == null)
+            Item itemToUpdate = _itemsManager.Get(id);
+            if (itemToUpdate == null)
             {
                 return NotFound("The Item record couldn't be found.");
             }
-            _itemsManager.Update(employeeToUpdate, item);
+            _itemsManager.Update(itemToUpdate, item);
             return NoContent();
         }
 
