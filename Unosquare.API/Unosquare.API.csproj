@@ -22,8 +22,4 @@
     <ProjectReference Include="..\Unosquare.Test\Unosquare.Test.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 </Project>

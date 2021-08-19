@@ -13,6 +13,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Unosquare.Data.Models;
+using Unosquare.Services.Contracts;
+using Unosquare.Services.Services;
 
 namespace Unosquare.API
 {
@@ -29,6 +31,7 @@ namespace Unosquare.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ItemContext>(opts => opts.UseSqlServer(Configuration["ConnectionString:ItemsDB"]));
+            services.AddScoped<I_ItemManager<Item>, ItemManager>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
