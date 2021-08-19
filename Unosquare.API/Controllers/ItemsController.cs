@@ -23,8 +23,8 @@ namespace Unosquare.API.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            IEnumerable<Item> employees = _itemsManager.GetAll();
-            return Ok(employees);
+            IEnumerable<Item> items = _itemsManager.GetAll();
+            return Ok(items);
         }
 
         // GET: api/Item/5
