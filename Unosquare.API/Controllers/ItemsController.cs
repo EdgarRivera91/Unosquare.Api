@@ -10,9 +10,11 @@ using Unosquare.Data.Models;
 namespace Unosquare.API.Controllers
 {
     [Route("api/items")]
+
     [ApiController]
     public class ItemsController : ControllerBase
     {
+
         private readonly I_ItemManager<Item> _itemsManager;
 
         public ItemsController(I_ItemManager<Item> itemManager)
@@ -20,6 +22,7 @@ namespace Unosquare.API.Controllers
             _itemsManager = itemManager;
         }
 
+        // GET: api/Item
         [HttpGet]
         public IActionResult Get()
         {
@@ -27,7 +30,7 @@ namespace Unosquare.API.Controllers
             return Ok(items);
         }
 
-        // GET: api/Item/5
+        // GET: api/Item/{item}
         [HttpGet("{id}", Name = "Get")]
         public IActionResult Get(long id)
         {
@@ -54,7 +57,7 @@ namespace Unosquare.API.Controllers
                   item);
         }
 
-        // PUT: api/Item/5
+        // (Update) PUT: api/Item/{item}
         [HttpPut("{id}")]
         public IActionResult Put(long id, [FromBody] Item item)
         {
@@ -71,7 +74,7 @@ namespace Unosquare.API.Controllers
             return NoContent();
         }
 
-        // DELETE: api/Item/5
+        // DELETE: api/Item/{item}
         [HttpDelete("{id}")]
         public IActionResult Delete(long id)
         {
