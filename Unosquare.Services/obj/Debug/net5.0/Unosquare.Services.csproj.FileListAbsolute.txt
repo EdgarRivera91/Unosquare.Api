@@ -28,3 +28,21 @@ C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.Services\obj\Debug\ne
 C:\Users\edgar.rivera\Source\Repos\Unosquare.Api\Unosquare.Services\bin\Debug\net5.0\Unosquare.Data.dll
 C:\Users\edgar.rivera\Source\Repos\Unosquare.Api\Unosquare.Services\bin\Debug\net5.0\Unosquare.Data.pdb
 C:\Users\edgar.rivera\Source\Repos\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\Unosquare.Services.csproj.CopyComplete
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\bin\Debug\net5.0\Unosquare.Services.deps.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\bin\Debug\net5.0\Unosquare.Services.runtimeconfig.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\bin\Debug\net5.0\Unosquare.Services.runtimeconfig.dev.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\bin\Debug\net5.0\Unosquare.Services.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\bin\Debug\net5.0\ref\Unosquare.Services.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\bin\Debug\net5.0\Unosquare.Services.pdb
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\bin\Debug\net5.0\Unosquare.Data.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\bin\Debug\net5.0\Unosquare.Data.pdb
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\Unosquare.Services.csproj.AssemblyReference.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\Unosquare.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\Unosquare.Services.AssemblyInfoInputs.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\Unosquare.Services.AssemblyInfo.cs
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\Unosquare.Services.csproj.CoreCompileInputs.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\Unosquare.Services.csproj.CopyComplete
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\Unosquare.Services.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\ref\Unosquare.Services.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\Unosquare.Services.pdb
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Services\obj\Debug\net5.0\Unosquare.Services.genruntimeconfig.cache

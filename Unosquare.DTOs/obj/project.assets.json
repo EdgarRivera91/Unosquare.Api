@@ -5797,28 +5797,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\edgar.rivera\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\eduardo.torres\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edgar.rivera\\source\\repos\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj",
+      "projectUniqueName": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj",
       "projectName": "Unosquare.DTOs",
-      "projectPath": "C:\\Users\\edgar.rivera\\source\\repos\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj",
-      "packagesPath": "C:\\Users\\edgar.rivera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edgar.rivera\\source\\repos\\Unosquare.Api\\Unosquare.DTOs\\obj\\",
+      "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj",
+      "packagesPath": "C:\\Users\\eduardo.torres\\.nuget\\packages\\",
+      "outputPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.DTOs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\edgar.rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\eduardo.torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

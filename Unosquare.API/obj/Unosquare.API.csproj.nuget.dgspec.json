@@ -1,27 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.API\\Unosquare.API.csproj": {}
+    "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.API\\Unosquare.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.API\\Unosquare.API.csproj": {
+    "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.API\\Unosquare.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.API\\Unosquare.API.csproj",
+        "projectUniqueName": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.API\\Unosquare.API.csproj",
         "projectName": "Unosquare.API",
-        "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.API\\Unosquare.API.csproj",
-        "packagesPath": "C:\\Users\\edgar.rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.API\\obj\\",
+        "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.API\\Unosquare.API.csproj",
+        "packagesPath": "C:\\Users\\eduardo.torres\\.nuget\\packages\\",
+        "outputPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edgar.rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\eduardo.torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -34,17 +31,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj": {
-                "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj"
+              "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj": {
+                "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj"
               },
-              "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj": {
-                "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj"
+              "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj": {
+                "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj"
               },
-              "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Services\\Unosquare.Services.csproj": {
-                "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Services\\Unosquare.Services.csproj"
+              "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Services\\Unosquare.Services.csproj": {
+                "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Services\\Unosquare.Services.csproj"
               },
-              "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Test\\Unosquare.Test.csproj": {
-                "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Test\\Unosquare.Test.csproj"
+              "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Test\\Unosquare.Test.csproj": {
+                "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Test\\Unosquare.Test.csproj"
               }
             }
           }
@@ -104,24 +101,21 @@
         }
       }
     },
-    "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj": {
+    "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj",
+        "projectUniqueName": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj",
         "projectName": "Unosquare.Data",
-        "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj",
-        "packagesPath": "C:\\Users\\edgar.rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Data\\obj\\",
+        "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj",
+        "packagesPath": "C:\\Users\\eduardo.torres\\.nuget\\packages\\",
+        "outputPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edgar.rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\eduardo.torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -180,24 +174,21 @@
         }
       }
     },
-    "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj": {
+    "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj",
+        "projectUniqueName": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj",
         "projectName": "Unosquare.DTOs",
-        "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj",
-        "packagesPath": "C:\\Users\\edgar.rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.DTOs\\obj\\",
+        "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.DTOs\\Unosquare.DTOs.csproj",
+        "packagesPath": "C:\\Users\\eduardo.torres\\.nuget\\packages\\",
+        "outputPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edgar.rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\eduardo.torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -256,24 +247,21 @@
         }
       }
     },
-    "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Services\\Unosquare.Services.csproj": {
+    "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Services\\Unosquare.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Services\\Unosquare.Services.csproj",
+        "projectUniqueName": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Services\\Unosquare.Services.csproj",
         "projectName": "Unosquare.Services",
-        "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Services\\Unosquare.Services.csproj",
-        "packagesPath": "C:\\Users\\edgar.rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Services\\obj\\",
+        "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Services\\Unosquare.Services.csproj",
+        "packagesPath": "C:\\Users\\eduardo.torres\\.nuget\\packages\\",
+        "outputPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edgar.rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\eduardo.torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -286,8 +274,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj": {
-                "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj"
+              "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj": {
+                "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Data\\Unosquare.Data.csproj"
               }
             }
           }
@@ -336,24 +324,21 @@
         }
       }
     },
-    "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Test\\Unosquare.Test.csproj": {
+    "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Test\\Unosquare.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Test\\Unosquare.Test.csproj",
+        "projectUniqueName": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Test\\Unosquare.Test.csproj",
         "projectName": "Unosquare.Test",
-        "projectPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Test\\Unosquare.Test.csproj",
-        "packagesPath": "C:\\Users\\edgar.rivera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar.rivera\\Source\\Repos\\Unosquare.Api\\Unosquare.Test\\obj\\",
+        "projectPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Test\\Unosquare.Test.csproj",
+        "packagesPath": "C:\\Users\\eduardo.torres\\.nuget\\packages\\",
+        "outputPath": "C:\\Center of Excellence\\Code\\Edgar Rivera\\Unosquare.Api\\Unosquare.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\edgar.rivera\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\eduardo.torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

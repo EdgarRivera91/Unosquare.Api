@@ -25,3 +25,18 @@ C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0
 C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.pdb
 C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.genruntimeconfig.cache
 C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.csproj.AssemblyReference.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\bin\Debug\net5.0\Unosquare.DTOs.deps.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\bin\Debug\net5.0\Unosquare.DTOs.runtimeconfig.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\bin\Debug\net5.0\Unosquare.DTOs.runtimeconfig.dev.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\bin\Debug\net5.0\Unosquare.DTOs.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\bin\Debug\net5.0\ref\Unosquare.DTOs.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\bin\Debug\net5.0\Unosquare.DTOs.pdb
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.csproj.AssemblyReference.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.AssemblyInfoInputs.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.AssemblyInfo.cs
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.csproj.CoreCompileInputs.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\ref\Unosquare.DTOs.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.pdb
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.DTOs\obj\Debug\net5.0\Unosquare.DTOs.genruntimeconfig.cache

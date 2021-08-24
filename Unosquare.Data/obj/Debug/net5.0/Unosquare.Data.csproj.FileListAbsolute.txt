@@ -25,3 +25,18 @@ C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0
 C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.pdb
 C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.genruntimeconfig.cache
 C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.csproj.AssemblyReference.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\bin\Debug\net5.0\Unosquare.Data.deps.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\bin\Debug\net5.0\Unosquare.Data.runtimeconfig.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\bin\Debug\net5.0\Unosquare.Data.runtimeconfig.dev.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\bin\Debug\net5.0\Unosquare.Data.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\bin\Debug\net5.0\ref\Unosquare.Data.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\bin\Debug\net5.0\Unosquare.Data.pdb
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.csproj.AssemblyReference.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.AssemblyInfoInputs.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.AssemblyInfo.cs
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.csproj.CoreCompileInputs.cache
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\ref\Unosquare.Data.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.pdb
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.Data\obj\Debug\net5.0\Unosquare.Data.genruntimeconfig.cache
