@@ -198,17 +198,17 @@ C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\
 C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.DTOs.pdb
 C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.Services.pdb
 C:\Users\edgar.rivera\source\repos\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.Test.pdb
-C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\testhost.exe
 C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\testhost.dll
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.Test.deps.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.Test.runtimeconfig.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.Test.runtimeconfig.dev.json
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\testhost.exe
+C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
 C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\appsettings.Development.json
 C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\appsettings.json
-C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.Test.deps.json
-C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.Test.runtimeconfig.json
-C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.Test.runtimeconfig.dev.json
-C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.API.exe
 C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.API.deps.json
 C:\Center of Excellence\Code\Edgar Rivera\Unosquare.Api\Unosquare.API\bin\Debug\net5.0\Unosquare.API.runtimeconfig.json

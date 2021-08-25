@@ -18,7 +18,7 @@ using Unosquare.Services.Services;
 
 namespace Unosquare.API
 {
-    public class Startup
+    public partial class Startup
     {
         public Startup(IConfiguration configuration)
         {
@@ -33,7 +33,7 @@ namespace Unosquare.API
             services.AddDbContext<ItemContext>(opts => opts.UseSqlServer(Configuration["ConnectionString:ItemsDB"]));
 
             //TODO: Create a startup partial class with a ConfigureDependencyInjection(IServiceCollection collection) method to clean up this section
-            services.AddScoped<I_ItemManager<Item>, ItemManager>();
+            services.AddScoped<IItemService<Item>, ItemService>();
 
 
             services.AddControllers();

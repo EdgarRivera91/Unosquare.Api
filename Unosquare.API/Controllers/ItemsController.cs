@@ -6,6 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Unosquare.Services.Contracts;
 using Unosquare.Data.Models;
+using System.Reflection;
 
 namespace Unosquare.API.Controllers
 {
@@ -15,9 +16,9 @@ namespace Unosquare.API.Controllers
     public class ItemsController : ControllerBase
     {
         //TODO: No exception handling on any method
-        private readonly I_ItemManager<Item> _itemsManager;
+        private readonly IItemService<Item> _itemsManager;
 
-        public ItemsController(I_ItemManager<Item> itemManager)
+        public ItemsController(IItemService<Item> itemManager)
         {
             _itemsManager = itemManager;
         }
@@ -56,6 +57,11 @@ namespace Unosquare.API.Controllers
             //TODO: Please take a look at the created at route usage https://stackoverflow.com/questions/25045604/can-anyone-explain-createdatroute-to-me/25110700 Maybe we can use return OK? 
             //TODO: Take a look at the Rfc standard for the post https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5
 
+            //image1.jpg
+            //http://something/image1.jpg
+
+            //http://something/GetUser
+
             return CreatedAtRoute(
                   "Get",
                   new { Id = item.ItemID },
@@ -77,7 +83,7 @@ namespace Unosquare.API.Controllers
                 return NotFound("The Item record couldn't be found.");
             }
             _itemsManager.Update(itemToUpdate, item);
-            return NoContent(); //TODO: its better to send an ok
+            return NoContent(); //TODO: Nice To have--> its better to send an ok
         }
 
         // DELETE: api/Item/{item}
