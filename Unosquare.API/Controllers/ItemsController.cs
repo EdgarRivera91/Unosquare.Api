@@ -14,7 +14,7 @@ namespace Unosquare.API.Controllers
     [ApiController]
     public class ItemsController : ControllerBase
     {
-
+        //TODO: No exception handling on any method
         private readonly I_ItemManager<Item> _itemsManager;
 
         public ItemsController(I_ItemManager<Item> itemManager)
@@ -26,6 +26,7 @@ namespace Unosquare.API.Controllers
         [HttpGet]
         public IActionResult Get()
         {
+            //TODO: In the Getby Id you are following the good practice but not here, why? 
             IEnumerable<Item> items = _itemsManager.GetAll();
             return Ok(items);
         }
@@ -51,6 +52,10 @@ namespace Unosquare.API.Controllers
                 return BadRequest("Item is null.");
             }
             _itemsManager.Add(item);
+            //TODO: Why the route name is GET  ?
+            //TODO: Please take a look at the created at route usage https://stackoverflow.com/questions/25045604/can-anyone-explain-createdatroute-to-me/25110700 Maybe we can use return OK? 
+            //TODO: Take a look at the Rfc standard for the post https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.5
+
             return CreatedAtRoute(
                   "Get",
                   new { Id = item.ItemID },
@@ -61,6 +66,7 @@ namespace Unosquare.API.Controllers
         [HttpPut("{id}")]
         public IActionResult Put(long id, [FromBody] Item item)
         {
+            //TODO: you could move all the logic (IF, else,) to the service instead of the controller
             if (item == null)
             {
                 return BadRequest("Item is null.");
@@ -71,7 +77,7 @@ namespace Unosquare.API.Controllers
                 return NotFound("The Item record couldn't be found.");
             }
             _itemsManager.Update(itemToUpdate, item);
-            return NoContent();
+            return NoContent(); //TODO: its better to send an ok
         }
 
         // DELETE: api/Item/{item}

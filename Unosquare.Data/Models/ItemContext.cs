@@ -17,6 +17,7 @@ namespace Unosquare.Data.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //TODO: Move to Configuration files with fluentAPI and using the IEntityConfiguration interface
             modelBuilder.Entity<Item>().HasData(new Item
             {
                 ItemID = 1,

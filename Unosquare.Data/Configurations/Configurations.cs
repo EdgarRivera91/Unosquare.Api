@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Unosquare.Data.Configurations
 {
+    //TOOD: Create a configuration file per each entity with the IEntityTypeConfiguration
     class Configurations
     {
     }

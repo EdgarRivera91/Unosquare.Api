@@ -8,6 +8,7 @@ using Unosquare.Services.Contracts;
 
 namespace Unosquare.Services.Services
 {
+    //TODO: For naming convension you should be using the "Service" word if its a service, in this case ItemService with IItemService interface
     public class ItemManager : I_ItemManager<Item>
     {
         readonly ItemContext _itemContext;
@@ -21,6 +22,7 @@ namespace Unosquare.Services.Services
         }
         public Item Get(long id)
         {
+
             return _itemContext.Items
                 .FirstOrDefault(i => i.ItemID == id);
         }

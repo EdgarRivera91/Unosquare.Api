@@ -31,7 +31,11 @@ namespace Unosquare.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<ItemContext>(opts => opts.UseSqlServer(Configuration["ConnectionString:ItemsDB"]));
+
+            //TODO: Create a startup partial class with a ConfigureDependencyInjection(IServiceCollection collection) method to clean up this section
             services.AddScoped<I_ItemManager<Item>, ItemManager>();
+
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
