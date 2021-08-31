@@ -12,13 +12,13 @@ namespace Unosquare.Data.Models
     {
         public long ItemID { get; set; }
 
-        public string ItemType { get; set; } //TODO: This should be an ID with a relationship to another table/Entity
+        public long ItemType { get; set; } //TODO: This should be an ID with a relationship to another table/Entity
 
-        public string ItemStatus { get; set; }//TODO: This should be an ID with a relationship to another table/Entity
+        public long ItemStatus { get; set; }//TODO: This should be an ID with a relationship to another table/Entity
 
-        public string Warehouse { get; set; }//TODO: This should be an ID with a relationship to another table/Entity
+        public long Warehouse { get; set; }//TODO: This should be an ID with a relationship to another table/Entity
 
-        public long Container { get; set; }//TODO: This should be an ID with a self-relationship
+        public List<Item> Container { get; set; }//TODO: This should be an ID with a self-relationship
 
         //Navigation Properties
         //List<Warehouse>

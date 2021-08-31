@@ -29,7 +29,11 @@ namespace Unosquare.API.Controllers
         {
             //TODO: In the Getby Id you are following the good practice but not here, why? 
             IEnumerable<Item> items = _itemsManager.GetAll();
-            return Ok(items);
+            
+            if(items is null)
+                throw new Exception("Failed to attempt on getting all Items");
+            else
+                return Ok(items);
         }
 
         // GET: api/Item/{item}
@@ -37,11 +41,10 @@ namespace Unosquare.API.Controllers
         public IActionResult Get(long id)
         {
             Item item = _itemsManager.Get(id);
-            if (item == null)
-            {
-                return NotFound("The Item couldn't be found.");
-            }
-            return Ok(item);
+            if (item is null)
+                throw new Exception("The Item couldn't be found. Check if the {}");
+            else
+                return Ok(item);
         }
 
         // POST: api/Item
@@ -62,10 +65,7 @@ namespace Unosquare.API.Controllers
 
             //http://something/GetUser
 
-            return CreatedAtRoute(
-                  "Get",
-                  new { Id = item.ItemID },
-                  item);
+            return Ok();
         }
 
         // (Update) PUT: api/Item/{item}
@@ -83,7 +83,7 @@ namespace Unosquare.API.Controllers
                 return NotFound("The Item record couldn't be found.");
             }
             _itemsManager.Update(itemToUpdate, item);
-            return NoContent(); //TODO: Nice To have--> its better to send an ok
+            return Ok(); //TODO: Nice To have--> its better to send an ok
         }
 
         // DELETE: api/Item/{item}
@@ -96,7 +96,7 @@ namespace Unosquare.API.Controllers
                 return NotFound("The item record couldn't be found.");
             }
             _itemsManager.Delete(item);
-            return NoContent();
+            return Ok();
         }
     }
 }
